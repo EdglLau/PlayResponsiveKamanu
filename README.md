@@ -9,7 +9,7 @@ A [Play application](http://www.playframework.com/) mockup of Kamanu Composites
 
 Installation
 ---------------
-Unzip the file and run in Play using localhost:9000
+Unzip the file and run in Play using localhost:9000.
 
 
 Usage
